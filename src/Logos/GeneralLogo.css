@@ -1,0 +1,29 @@
+.general{
+  background: #ac9fbc;
+  border-radius: 10px;
+  padding: 5px 5px 5px 5px;
+}
+
+.gen-line1{
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin:round;
+  stroke-width: 32px;
+}
+
+.gen-path1{
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 32px;
+}
+
+.gen-path2{
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 32px;
+}

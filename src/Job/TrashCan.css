@@ -1,0 +1,54 @@
+.trash{
+  cursor: pointer;
+}
+
+.trash-path1{
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 32px;
+}
+
+.trash-line1{
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-miterlimit: 10;
+  stroke-width: 32px;
+}
+
+.trash-path2{
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 32px;
+}
+
+.trash-line2{
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 32px;
+}
+
+.trash-line3{
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 32px;
+}
+
+.trash-line4{
+  fill: none;
+  stroke: #000;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 32px;
+}
+
+.trash:hover > .trash-path1, .trash:hover > .trash-line1, .trash:hover > .trash-path2, .trash:hover > .trash-line2, .trash:hover > .trash-line3, .trash:hover > .trash-line4{
+  stroke: #f82525;
+}

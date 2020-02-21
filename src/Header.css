@@ -1,0 +1,16 @@
+#header{
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px 0px 30px 0px;
+  width: 300px;
+}
+
+#header-title{
+  margin: 0px 0px 0px 0px;
+  color: #21044b;
+}
+
+#header-jobs{
+  margin: 5px 0px 0px 0px;
+  color: #d2cbdc;
+}

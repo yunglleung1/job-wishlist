@@ -1,0 +1,9 @@
+#add-button{
+  width: 300px;
+  color: #9a94aa;
+  font-size: 30px;
+  background-color: #ffffff;
+  border: 3px solid #f0edf5;
+  border-radius: 5px;
+  cursor: pointer;
+}

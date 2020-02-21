@@ -1,0 +1,79 @@
+#remove-job{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  width: 360px;
+  height: 220px;
+  border-radius: 5px;
+  position: relative;
+  top: 100px;
+}
+
+#remove-job-title{
+  display: flex;
+  align-items: flex-end;
+  color: #1e0048;
+  font-size: 20px;
+  font-weight: 600;
+  height: 33em;
+  margin: 0px 0px 10px 0px;
+}
+
+#remove-job-subtitle{
+  display: flex;
+  justify-content: center;
+  color: #837495;
+  font-size: 16px;
+  height: 33em;
+}
+
+#remove-job-subtitle{
+  display: flex;
+  justify-content: center;
+}
+
+#remove-subtitle{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#remove-buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 33em;
+  margin: 0px 0px 20px 0px;
+}
+
+#remove-job-delete, #remove-job-cancel{
+  width: 62px;
+  height: 27px;
+  background: #6100aa;
+  color: #f8eeff;
+  cursor: pointer;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+#remove-job-delete{
+  margin: 0px 5px 10px 0px;
+}
+
+#remove-job-delete:focus, #remove-job-cancel:focus{
+  outline: none;
+}
+
+#remove-job-delete:hover{
+  background: #f8eeff;
+  color: #6100aa;
+}
+
+
+#remove-job-cancel{
+  margin: 0px 0px 10px 5px;
+  opacity: 0.3;
+}
